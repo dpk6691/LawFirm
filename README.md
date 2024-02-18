@@ -13,7 +13,7 @@ LawFirm is a clean website built with ReactJS, Vite, and Tailwind CSS.
 Follow these steps to set up LawFirm locally:
 
 1. Clone the repository:
-- git clone https://github.com/your-username/lawfirm.git
+- git clone (https://github.com/dpk6691/LawFirm)
 2. Navigate to the project directory:
 - cd lawfirm
 3. Install dependencies using npm:
