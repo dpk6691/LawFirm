@@ -4,7 +4,9 @@ import gift from "./../assets/gift.png";
 const Why = () => {
   return (
     <div className="container pb-28 px-6 md:px-0 m-auto">
-      <h2 className="text-white text-4xl text-center pb-20">Why Choose us?</h2>
+      <h2 className="text-white text-4xl md:text-center pb-20">
+        Why Choose us?
+      </h2>
       <div className=" flex flex-col md:flex-row items-center justify-between ">
         <div className="border p-6 border-zinc-700 rounded-xl">
           <img src={gift} alt="" />

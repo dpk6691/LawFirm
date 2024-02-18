@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="bg-zinc-950">
       <div className="container flex flex-col md:flex-row items-center justify-around md:justify-between py-8 m-auto">
         <img src={logo} alt="" />
-        <nav className="py-4">
+        <nav className="text-center py-4">
           <a href="" className="text-white px-8">
             Home
           </a>

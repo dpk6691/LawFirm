@@ -9,7 +9,7 @@ import Ellipsesix from "./../assets/Ellipse6.png";
 const OurTeam = () => {
   return (
     <div className="container pb-28 px-6 md:px-0 m-auto">
-      <h2 className="text-white text-4xl text-center pb-20">Our Team</h2>
+      <h2 className="text-white text-4xl md:text-center pb-20">Our Team</h2>
       <div className=" flex flex-col md:flex-row items-center justify-between ">
         <div className="m-2 flex p-6 w-full hover:bg-amber-300 rounded-xl">
           <img src={Ellipseone} alt="" className="mr-4" />

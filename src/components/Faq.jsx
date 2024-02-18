@@ -43,7 +43,7 @@ const Faq = () => {
   return (
     <div className="container pb-28 px-6 md:px-0 m-auto">
       <h2 className="text-white text-4xl pb-20">FAQ</h2>
-      <div className="flex">
+      <div className="flex flex-col md:flex-row">
         <p className="text-zinc-500 basis-1/2">
           Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
           sint.
