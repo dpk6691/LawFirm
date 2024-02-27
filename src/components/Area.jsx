@@ -1,10 +1,10 @@
 import React from "react";
-import imgone from "./../assets/Rectangle2.png";
-import imgtwo from "./../assets/Rectangle1.png";
-import imgthree from "./../assets/Rectangle3.png";
-import imgfour from "./../assets/Rectangle4.png";
-import imgfive from "./../assets/Rectangle6.png";
-import imgsix from "./../assets/Rectangle5.png";
+import imgone from "/public/assets/Rectangle2.png";
+import imgtwo from "/public/assets/Rectangle1.png";
+import imgthree from "/public/assets/Rectangle3.png";
+import imgfour from "/public/assets/Rectangle4.png";
+import imgfive from "/public/assets/Rectangle6.png";
+import imgsix from "/public/assets/Rectangle5.png";
 
 const Area = () => {
   return (

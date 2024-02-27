@@ -1,6 +1,6 @@
 import React from "react";
-import banner from "./../assets/banner.png";
-import input from "./../assets/input.png";
+import banner from "/public/assets/banner.png";
+import input from "/public/assets/input.png";
 
 const Slider = () => {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
-import clientone from "./../assets/client1.png";
-import clienttwo from "./../assets/client2.png";
-import clientthree from "./../assets/client3.png";
+import clientone from "/public/assets/client1.png";
+import clienttwo from "/public/assets/client2.png";
+import clientthree from "/public/assets/client3.png";
 import Carousel from "react-grid-carousel";
 
 const Clients = () => {

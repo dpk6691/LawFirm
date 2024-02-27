@@ -1,10 +1,10 @@
 import React from "react";
-import Ellipseone from "./../assets/Ellipse1.png";
-import Ellipsetwo from "./../assets/Ellipse2.png";
-import Ellipsethree from "./../assets/Ellipse3.png";
-import Ellipsefour from "./../assets/Ellipse4.png";
-import Ellipsefive from "./../assets/Ellipse5.png";
-import Ellipsesix from "./../assets/Ellipse6.png";
+import Ellipseone from "/public/assets/Ellipse1.png";
+import Ellipsetwo from "/public/assets/Ellipse2.png";
+import Ellipsethree from "/public/assets/Ellipse3.png";
+import Ellipsefour from "/public/assets/Ellipse4.png";
+import Ellipsefive from "/public/assets/Ellipse5.png";
+import Ellipsesix from "/public/assets/Ellipse6.png";
 
 const OurTeam = () => {
   return (

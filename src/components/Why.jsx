@@ -1,5 +1,5 @@
 import React from "react";
-import gift from "./../assets/gift.png";
+import gift from "/public/assets/gift.png";
 
 const Why = () => {
   return (
